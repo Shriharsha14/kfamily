@@ -1,0 +1,13 @@
+
+
+---------------------- main.py -----------------------
+
+mounika.py      choti.py        puppy.py        revanth.py 
+
+age                age           same               same
+school             school
+college            college      
+graduation         graduation
+
+
+when you run the python script using command line argument print the selecting file details
